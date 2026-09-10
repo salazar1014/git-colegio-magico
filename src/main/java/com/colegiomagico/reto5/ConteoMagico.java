@@ -9,7 +9,6 @@ public class ConteoMagico {
         int suma = 0;
         int i = 1;
 
-        // AQUÍ EMPIEZA EL WHILE:
         while (i <= limite) {
             suma += i;
             i++; 
