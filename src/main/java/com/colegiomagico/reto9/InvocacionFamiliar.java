@@ -6,10 +6,10 @@ package com.colegiomagico.reto9;
 public class InvocacionFamiliar {
 
     public static String invocar(String nombre, String tipo) {
-        return "Familiar: " + tipo + "llamado" + nombre;
+        return "Familiar: " + tipo + " llamado " + nombre;
     }
 
     public static void main(String[] args) {
-        System.out.println(invocar("Nano", "Cabra"));
+        System.out.println(invocar("Hedwig", "Lechuza"));
     }
 }
