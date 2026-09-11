@@ -10,6 +10,6 @@ public class InvocacionFamiliar {
     }
 
     public static void main(String[] args) {
-        System.out.println(invocar("nano", "Cabra"));
+        System.out.println(invocar("Nano", "Cabra"));
     }
 }
