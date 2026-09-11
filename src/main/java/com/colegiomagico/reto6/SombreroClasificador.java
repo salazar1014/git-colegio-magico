@@ -9,7 +9,7 @@ public class SombreroClasificador {
         switch (casa) {
             case ("Gryffindor"):
                 return ("Valentia");
-            case ("Revenclaw"):
+            case ("Ravenclaw"):
                 return ("Inteligencia");
             case ("otro"):
                 return ("Desconocido");
